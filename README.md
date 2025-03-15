@@ -1,4 +1,7 @@
-```markdown
+Segue abaixo a versão revisada e com a formatação adequada para o seu arquivo README.md no GitHub:
+
+------------------------------------------------------------
+
 # Mini Project Report - Giorge Abdala
 
 ## Introduction
@@ -13,13 +16,13 @@ This report presents a detailed summary of each initiative, along with their res
 
 ## 1. Twitter Activity
 
-I created a Twitter account for Autonomys, which has been active since August, with the aim of reaching and engaging the Portuguese-speaking audience. Through this account, I posted various threads to:
+I created a Twitter account for Autonomys, active since August, with the aim of reaching and engaging the Portuguese-speaking audience. Through this account, I posted various threads to:
 
 - Disseminate relevant information about the protocol and community activities.
 - Engage and expand participation among Portuguese speakers.
 - Stimulate constructive discussions and feedback.
 
-Below is the list of published thread links:
+### Published Threads
 
 - [Thread 1](https://x.com/autonomys_pt/status/1899085289777152293)
 - [Thread 2](https://x.com/autonomys_pt/status/1898823806560752006)
@@ -65,11 +68,11 @@ Below is the list of published thread links:
 - [Thread 42](https://x.com/autonomys_pt/status/1829631428243361995)
 - [Thread 43](https://x.com/autonomys_pt/status/1829621322827084085)
 
-The attachment below highlights the thread that achieved the highest engagement, demonstrating the positive impact of the strategy adopted for the Portuguese-speaking audience.
+*The attached screenshot highlights the thread with the highest engagement, demonstrating the positive impact of our approach for the Portuguese-speaking audience.*
 
 ## 2. Contributions on GitHub
 
-My GitHub activity focused on improving and supporting the structure of Autonomys projects. I contributed by both creating and reviewing the following Pull Requests:
+My GitHub activity was focused on improving and supporting the structure of Autonomys projects. I contributed by both creating and reviewing Pull Requests.
 
 ### Created Pull Requests
 
@@ -81,9 +84,9 @@ My GitHub activity focused on improving and supporting the structure of Autonomy
   [View Pull Request](https://github.com/autonomys-ambassadors/ambassador-os-peer-review/pull/36)  
   *Objective:* Implement a request for more flexible monthly submissions, contributing to a more adaptable contribution flow.
 
-- **Adjustments from V:2024-12-22 Establish Primary Ambassador Team Assignments #5**  
+- **Adjustments from V:2024-12-22 – Establish Primary Ambassador Team Assignments #5**  
   [View Pull Request](https://github.com/autonomys-ambassadors/bylaws/pull/5)  
-  *Objective:* Make important adjustments for defining the primary responsibilities of the Ambassador Team, bringing greater organizational clarity.
+  *Objective:* Make important adjustments to define the primary responsibilities of the Ambassador Team, thereby bringing greater organizational clarity.
 
 ### Reviewed Pull Requests
 
@@ -93,39 +96,42 @@ My GitHub activity focused on improving and supporting the structure of Autonomy
 
 - **Revert allow late reviews #32**  
   [View Pull Request](https://github.com/autonomys-ambassadors/ambassador-os-peer-review/pull/32)  
-  *Objective:* Analyze and approve the reversion of a feature that permitted late reviews, maintaining the project's quality standards.
+  *Objective:* Analyze and approve the reversion of a feature that permitted late reviews, ensuring the project's quality standards.
 
 - **Email has timed deadline #29**  
   [View Pull Request](https://github.com/autonomys-ambassadors/ambassador-os-peer-review/pull/29)  
-  *Objective:* Evaluate improvements in managing deadlines set via email, ensuring timely adherence to deadlines.
+  *Objective:* Evaluate improvements in managing deadlines set via email, ensuring timely adherence to the established deadlines.
 
 ## 3. Collaboration on Translations via Crowdin
 
-I actively contributed to the translation of project content through Crowdin, focusing on translating materials into Portuguese. This initiative was key to:
+I actively contributed to translating project content through Crowdin, focusing on converting materials into Portuguese. This initiative was key to:
 
 - Making the material accessible to a Portuguese-speaking audience.
-- Ensuring that the content is available in a language that is closer and easier to understand for the target audience.
-- Expanding the communication and reach of the translated materials, facilitating engagement and knowledge-sharing.
+- Ensuring the content is presented in a language that is closer and easier to understand for our target audience.
+- Expanding the reach and communication of the translated materials, thereby facilitating engagement and knowledge-sharing.
 
-Below, I include a screenshot that demonstrates my performance and the activities carried out on this platform.
+*Below is a screenshot that demonstrates my performance and the activities carried out on this platform.*
 
 ## Conclusion
 
 My activities during this mini project encompassed:
 
-- **Engagement and Dissemination:** Through various Twitter threads aimed at the Portuguese-speaking audience, not only sharing valuable information but also stimulating relevant community interactions.
-- **Technical Enhancement:** Significant contributions on GitHub that strengthened the project’s structure and organization.
-- **Expanded Content Access:** Active participation in the translation process into Portuguese via Crowdin, promoting inclusive and accessible communication.
+- **Engagement and Dissemination:** Through various Twitter threads aimed at the Portuguese-speaking audience, I shared valuable information and stimulated community interactions.
+- **Technical Enhancement:** Significant contributions on GitHub helped strengthen the project’s structure and overall organization.
+- **Expanded Content Access:** Active participation in translating content via Crowdin promoted inclusive and accessible communication.
 
-These efforts have contributed to strengthening the Autonomys community and demonstrate my commitment to supporting and developing initiatives that drive the project to higher levels.
+These efforts have contributed to strengthening the Autonomys community and demonstrate my commitment to supporting initiatives that drive the project to new levels.
 
 **Giorge Abdala**
 
 ---
 
-**Attachments:**
+## Attachments
 
 - Screenshot of the Twitter thread with the highest engagement.
 - Screenshot of performance in Crowdin translations.
 - Links to the cited Pull Requests.
-```
+
+------------------------------------------------------------
+
+Você pode copiar e colar esse conteúdo diretamente no seu arquivo README.md para que o relatório seja exibido corretamente no GitHub.
