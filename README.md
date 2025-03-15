@@ -165,15 +165,3 @@ My activities during this mini project encompassed:
 These efforts have contributed to strengthening the Autonomys community and demonstrate my commitment to supporting initiatives that drive the project to new levels.
 
 **Giorge Abdala**
-
----
-
-## Attachments
-
-- Screenshot of the Twitter thread with the highest engagement.
-- Screenshot of performance in Crowdin translations.
-- Links to the cited Pull Requests.
-
-------------------------------------------------------------
-
-Você pode copiar e colar esse conteúdo diretamente no seu arquivo README.md para que o relatório seja exibido conforme desejado.
