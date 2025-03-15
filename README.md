@@ -108,7 +108,8 @@ I created a Twitter account for Autonomys, active since August, with the aim of 
 
 *The attached screenshot highlights the thread with the highest engagement, demonstrating the positive impact of our approach for the Portuguese-speaking audience.*
 
-![image](https://github.com/user-attachments/assets/3280b49b-bb30-4614-bbb1-871f365ca50e)
+![image](https://github.com/user-attachments/assets/28511ac0-e8ae-4cc9-9f8c-991152694bce)
+
 
 ## 2. Contributions on GitHub
 
