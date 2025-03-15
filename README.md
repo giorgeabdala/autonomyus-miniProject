@@ -1,4 +1,4 @@
-Segue abaixo a versão revisada e com a formatação adequada para o seu arquivo README.md no GitHub:
+Segue a versão atualizada com uma linha em branco entre os links dos threads do Twitter:
 
 ------------------------------------------------------------
 
@@ -25,47 +25,89 @@ I created a Twitter account for Autonomys, active since August, with the aim of 
 ### Published Threads
 
 - [Thread 1](https://x.com/autonomys_pt/status/1899085289777152293)
+
 - [Thread 2](https://x.com/autonomys_pt/status/1898823806560752006)
+
 - [Thread 3](https://x.com/autonomys_pt/status/1898490003979726975)
+
 - [Thread 4](https://x.com/autonomys_pt/status/1896985996153250155)
+
 - [Thread 5](https://x.com/autonomys_pt/status/1895165769941418113)
+
 - [Thread 6](https://x.com/autonomys_pt/status/1895140699974124008)
+
 - [Thread 7](https://x.com/autonomys_pt/status/1894855317655048584)
+
 - [Thread 8](https://x.com/autonomys_pt/status/1894850276693074242)
+
 - [Thread 9](https://x.com/autonomys_pt/status/1892961810279510269)
+
 - [Thread 10](https://x.com/autonomys_pt/status/1892959140076478786)
+
 - [Thread 11](https://x.com/autonomys_pt/status/1892929528785227949)
+
 - [Thread 12](https://x.com/autonomys_pt/status/1892554018490044853)
+
 - [Thread 13](https://x.com/autonomys_pt/status/1871332819143929890)
+
 - [Thread 14](https://x.com/autonomys_pt/status/1871320869416448466)
+
 - [Thread 15](https://x.com/autonomys_pt/status/1866950655866274272)
+
 - [Thread 16](https://x.com/autonomys_pt/status/1866950186242539983)
+
 - [Thread 17](https://x.com/autonomys_pt/status/1864793784296329694)
+
 - [Thread 18](https://x.com/autonomys_pt/status/1864437578872541545)
+
 - [Thread 19](https://x.com/autonomys_pt/status/1864436177580835102)
+
 - [Thread 20](https://x.com/autonomys_pt/status/1859721647902916961)
+
 - [Thread 21](https://x.com/autonomys_pt/status/1856696012909285720)
+
 - [Thread 22](https://x.com/autonomys_pt/status/1856458166906781749)
+
 - [Thread 23](https://x.com/autonomys_pt/status/1854260734139502730)
+
 - [Thread 24](https://x.com/autonomys_pt/status/1851748286874390997)
+
 - [Thread 25](https://x.com/autonomys_pt/status/1851747955067220433)
+
 - [Thread 26](https://x.com/autonomys_pt/status/1849126111575445639)
+
 - [Thread 27](https://x.com/autonomys_pt/status/1848825165406474470)
+
 - [Thread 28](https://x.com/autonomys_pt/status/1848489242868994449)
+
 - [Thread 29](https://x.com/autonomys_pt/status/1848488359385305515)
+
 - [Thread 30](https://x.com/autonomys_pt/status/1843063375498285344)
+
 - [Thread 31](https://x.com/autonomys_pt/status/1839399004280664470)
+
 - [Thread 32](https://x.com/autonomys_pt/status/1839072031423476042)
+
 - [Thread 33](https://x.com/autonomys_pt/status/1838644852717690985)
+
 - [Thread 34](https://x.com/autonomys_pt/status/1836836182212366409)
+
 - [Thread 35](https://x.com/autonomys_pt/status/1834355348548772267)
+
 - [Thread 36](https://x.com/autonomys_pt/status/1834355351409287507)
+
 - [Thread 37](https://x.com/autonomys_pt/status/1834353914860199986)
+
 - [Thread 38](https://x.com/autonomys_pt/status/1833242269333524876)
+
 - [Thread 39](https://x.com/autonomys_pt/status/1833241847856316455)
+
 - [Thread 40](https://x.com/autonomys_pt/status/1831761041971409092)
+
 - [Thread 41](https://x.com/autonomys_pt/status/1831759635252224329)
+
 - [Thread 42](https://x.com/autonomys_pt/status/1829631428243361995)
+
 - [Thread 43](https://x.com/autonomys_pt/status/1829621322827084085)
 
 *The attached screenshot highlights the thread with the highest engagement, demonstrating the positive impact of our approach for the Portuguese-speaking audience.*
@@ -134,4 +176,4 @@ These efforts have contributed to strengthening the Autonomys community and demo
 
 ------------------------------------------------------------
 
-Você pode copiar e colar esse conteúdo diretamente no seu arquivo README.md para que o relatório seja exibido corretamente no GitHub.
+Você pode copiar e colar esse conteúdo diretamente no seu arquivo README.md para que o relatório seja exibido conforme desejado.
