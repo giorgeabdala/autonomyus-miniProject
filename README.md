@@ -1,8 +1,4 @@
-Segue a versão atualizada com uma linha em branco entre os links dos threads do Twitter:
-
-------------------------------------------------------------
-
-# Mini Project Report - Giorge Abdala
+# Autonomys Mini Project Report - Giorge Abdala
 
 ## Introduction
 
@@ -112,6 +108,8 @@ I created a Twitter account for Autonomys, active since August, with the aim of 
 
 *The attached screenshot highlights the thread with the highest engagement, demonstrating the positive impact of our approach for the Portuguese-speaking audience.*
 
+![image](https://github.com/user-attachments/assets/3280b49b-bb30-4614-bbb1-871f365ca50e)
+
 ## 2. Contributions on GitHub
 
 My GitHub activity was focused on improving and supporting the structure of Autonomys projects. I contributed by both creating and reviewing Pull Requests.
@@ -153,6 +151,11 @@ I actively contributed to translating project content through Crowdin, focusing 
 - Expanding the reach and communication of the translated materials, thereby facilitating engagement and knowledge-sharing.
 
 *Below is a screenshot that demonstrates my performance and the activities carried out on this platform.*
+
+![image](https://github.com/user-attachments/assets/94a78303-2f96-4608-a26c-1f15bef620d3)
+
+
+
 
 ## Conclusion
 
